@@ -1,9 +1,9 @@
-# **Daftar Mata Kuliah**
-
-## Struktur kurikulum Program Studi Perpustakaan dan Sains Informasi terdiri atas tiga kategori mata kuliah yaitu:
+# Struktur kurikulum Program Studi Perpustakaan dan Sains Informasi terdiri atas tiga kategori mata kuliah yaitu:
 1. mata kuliah universitas,
 2. mata kuliah kompetensi inti, dan
 3. mata kuliah kompetensi pendukung.
+
+# **Daftar Mata Kuliah**
 
 ![Matkul S1](https://github.com/uin-fah/ipi-webcon/assets/138652527/18c300b4-dec2-4eea-89b6-7448236c107d)     ![Matkul S2](https://github.com/uin-fah/ipi-webcon/assets/138652527/f1313228-f67f-43c7-8ca3-3d31c8b37a62)
 
