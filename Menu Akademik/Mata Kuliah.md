@@ -1,4 +1,4 @@
-| Semester 1 |
+| Syntax | Description | 
 | ----------- | ----------- |
 | NO | Mata Kuliah |
 
