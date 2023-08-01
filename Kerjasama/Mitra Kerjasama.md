@@ -1,6 +1,11 @@
 # **Mitra Kerjasama Program Studi Ilmu Perpustakaan**
 
-![perpus bogor](https://github.com/uin-fah/ipi-webcon/assets/119867794/93a4b0df-66ea-481a-a1da-a8d44f1b2d06)
+![bappeda dki](https://github.com/uin-fah/ipi-webcon/assets/119867794/b3aa5026-08c0-406e-a2be-d28f3bd88c14) ![Logo_ANRI_(2016)](https://github.com/uin-fah/ipi-webcon/assets/119867794/c0243f14-1716-4d20-aa90-ac12a4683c21) ![logoBUMN](https://github.com/uin-fah/ipi-webcon/assets/119867794/33d219d0-32aa-4b32-afa1-e08018bc060d) ![perpus bogor](https://github.com/uin-fah/ipi-webcon/assets/119867794/7cf5f887-a03f-49d7-a569-a362ed83345e) ![perpus dpr ri](https://github.com/uin-fah/ipi-webcon/assets/119867794/a66e108a-e15f-444f-9eeb-dbea5fc55838)
+
+
+
+
+
 
 
 
