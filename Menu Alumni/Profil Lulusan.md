@@ -1,5 +1,4 @@
-#Profil Lulusan
-
+# Profil Lulusan
 
 | NO | Profil Lulusan | Deskripsi |
 | ----------- | ----------- | ----------- |
