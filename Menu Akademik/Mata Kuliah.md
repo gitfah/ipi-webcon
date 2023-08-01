@@ -1,6 +1,6 @@
 # **Daftar Mata Kuliah**
 
-  Struktur kurikulum Program Studi Ilmu Perpustakaan terdiri dari tiga kategori mata kuliah yaitu:
+Struktur kurikulum Program Studi Ilmu Perpustakaan terdiri dari tiga kategori mata kuliah yaitu:
   1. mata kuliah universitas,
   2. mata kuliah kompetensi inti,
   3. mata kuliah kompetensi pendukung.
