@@ -5,7 +5,7 @@ Muhammad Azwar is currently active as a lecturer in the Library Science study pr
 The author actively participates in seminars and training on education (teaching), librarianship, and information and communication technology (ICT). The author is active as a resource person in various seminars and training activities (workshops) related to automation systems, digital libraries and information literacy. In addition, the author is also a library consultant, especially in the implementation of automation systems in various libraries.
 Several reputable international articles have been published, namely entitled "Evaluating The Library Website Of The Indonesian Ministry of Education And Culture Through The End-User Computing Satisfaction (EUCS) Model" and "Comparison of Emotional Intelligence, Self Development, Decision for Selecting a Profession and Work Productivity between Librarian with Education in Library Science and Inpassing Librarian in Indonesia". A book entitled "Information literacy skills: online information retrieval strategies" and several works of proceedings, book chapters, and other journal articles.
 
-[link]([https://www.example.com/my%20great%20page](https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao )
+[link]([https://www.example.com/my%20great%20page](https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao)
 
 <a href="[https://www.example.com/my great page](https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao )https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao ">link</a>
 
