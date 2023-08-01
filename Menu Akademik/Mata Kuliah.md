@@ -5,7 +5,10 @@ Struktur kurikulum Program Studi Ilmu Perpustakaan terdiri dari tiga kategori ma
   2. mata kuliah kompetensi inti,
   3. mata kuliah kompetensi pendukung.
 
-
+Mata kuliah pada universitas merupakan gabungan mata kuliah wajib yang telah diamanahkan oleh Kementrian Agama di indonesia, serta mata kuliah umum universitas yang telah diajarkan kepada mahasiswa Universitas Islam Negeri Syarif Hidayatullah. Mata kuliah ini terdiri dari:
+  1. Mata Kuliah yang berkaitan dengan keislamanan,
+  2. Pengetahuan ilmu perpustakaan dan informasi yang berjiwa entrepreneur dan mampu bersaing di era industri 4.0,
+  3. Penelitian bidang ilmu perpustakaan dan informasi untuk pengembangan keilmuan, transformasi sosial, dan peningkatan daya saing bangsa.
 
 
 ![Matkul S1](https://github.com/uin-fah/ipi-webcon/assets/138652527/18c300b4-dec2-4eea-89b6-7448236c107d)     ![Matkul S2](https://github.com/uin-fah/ipi-webcon/assets/138652527/f1313228-f67f-43c7-8ca3-3d31c8b37a62)
