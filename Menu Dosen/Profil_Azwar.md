@@ -8,4 +8,7 @@ Several reputable international articles have been published, namely entitled "E
 
 - <a href="https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao">Google Scholar</a>
 - <a href="https://sinta.kemdikbud.go.id/authors/profile/258915">Sinta</a>
-- <a href="https://garuda.kemdikbud.go.id/author/view/238038">Sinta</a>
+- <a href="https://garuda.kemdikbud.go.id/author/view/238038">Garuda</a>
+- <a href="https://orcid.org/0000-0002-2960-1112">Orcid</a>
+- <a href="https://www.scopus.com/authid/detail.uri?authorId=58041646400">Scopus</a>
+- <a href="https://www.webofscience.com/wos/author/record/G-4966-2017">Web of Sciences</a>
