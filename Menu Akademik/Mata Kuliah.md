@@ -6,5 +6,4 @@
 
 ![Screenshot 2023-08-01 103217](https://github.com/uin-fah/ipi-webcon/assets/138652527/c8604d69-2c52-42e3-ace9-9ec4ac8d9bde)      ![Screenshot 2023-08-01 103310](https://github.com/uin-fah/ipi-webcon/assets/138652527/c6aa6ede-0ab0-4119-bf69-9f24aba40ade)
 
-![Screenshot 2023-08-01 103316](https://github.com/uin-fah/ipi-webcon/assets/138652527/06f22508-aad6-4925-a6b8-ed58112e1a9a)      [Screenshot 2023-08-01 103322](https://github.com/uin-fah/ipi-webcon/assets/138652527/96b53eb7-d197-415e-98a9-deea174ea0ca)
-!
+![Screenshot 2023-08-01 103316](https://github.com/uin-fah/ipi-webcon/assets/138652527/06f22508-aad6-4925-a6b8-ed58112e1a9a)      ![Screenshot 2023-08-01 103322](https://github.com/uin-fah/ipi-webcon/assets/138652527/96b53eb7-d197-415e-98a9-deea174ea0ca)
