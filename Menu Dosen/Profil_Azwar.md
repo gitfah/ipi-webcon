@@ -6,5 +6,5 @@ The author actively participates in seminars and training on education (teaching
 Several reputable international articles have been published, namely entitled "Evaluating The Library Website Of The Indonesian Ministry of Education And Culture Through The End-User Computing Satisfaction (EUCS) Model" and "Comparison of Emotional Intelligence, Self Development, Decision for Selecting a Profession and Work Productivity between Librarian with Education in Library Science and Inpassing Librarian in Indonesia". A book entitled "Information literacy skills: online information retrieval strategies" and several works of proceedings, book chapters, and other journal articles.
 
 
-<a href="https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao">Google Scholar</a>
-<a href="https://sinta.kemdikbud.go.id/authors/profile/258915 ">Sinta</a>
+1. <a href="https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao">Google Scholar</a>
+2. <a href="https://sinta.kemdikbud.go.id/authors/profile/258915 ">Sinta</a>
