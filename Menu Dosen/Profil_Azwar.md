@@ -1,5 +1,5 @@
 Muhammad Azwar **bold text**
-[![An old rock in the desert](https://raw.githubusercontent.com/uin-fah/ipi-webcon/main/azwar%20-%20Azwar%20Muin.jpeg)
+![An old rock in the desert](https://raw.githubusercontent.com/uin-fah/ipi-webcon/main/azwar%20-%20Azwar%20Muin.jpeg)
 
 
 <p>Muhammad Azwar is currently active as a lecturer in the Library Science study program at Syarif Hidayatullah State Islamic University Jakarta, Indonesia. Actively teaching several courses related to information technology, such as databases and computer networks, web engineering, digital libraries and archives, archival automation systems, and digital library marketing. Completed undergraduate education at STAI Madinatul Ilmi, Depok, in Islamic Religious Education in 2005. Received the opportunity to study at the University of Indonesia Library Science study program in 2009 with a scholarship from the Ministry of Religion and obtained a Master's degree in 2011. He is studying doctoral studies at UIN Syarif Hidayatullah Postgraduate School, Islamic Studies study program in library science.</p>
