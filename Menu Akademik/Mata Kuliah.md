@@ -1,6 +1,6 @@
 # **Daftar Mata Kuliah**
-Semester 1                                                                                                    Semester 2
-![Matkul S1](https://github.com/uin-fah/ipi-webcon/assets/138652527/18c300b4-dec2-4eea-89b6-7448236c107d)     ![Matkul S2](https://github.com/uin-fah/ipi-webcon/assets/138652527/f1313228-f67f-43c7-8ca3-3d31c8b37a62)
+
+Mata Kuliah Semester 1 ![Matkul S1](https://github.com/uin-fah/ipi-webcon/assets/138652527/18c300b4-dec2-4eea-89b6-7448236c107d)     ![Matkul S2](https://github.com/uin-fah/ipi-webcon/assets/138652527/f1313228-f67f-43c7-8ca3-3d31c8b37a62)
 
 
 ![Matkul S3](https://github.com/uin-fah/ipi-webcon/assets/138652527/d3fb6899-2a47-4387-8c6a-ff1d50f727ff)      ![Screenshot 2023-08-01 103140](https://github.com/uin-fah/ipi-webcon/assets/138652527/0171ec99-8afb-4848-89a3-832b8b2d2fb8)
