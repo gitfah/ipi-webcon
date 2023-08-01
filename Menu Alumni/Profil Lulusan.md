@@ -1,3 +1,6 @@
+#Profil Lulusan
+
+
 | NO | Profil Lulusan | Deskripsi |
 | ----------- | ----------- | ----------- |
 | 1 | Pustakawan | Lulusan yang mampu mengelola Perpustakaan, Lembaga Arsip, Museum, maupun Lembaga Informasi dalam hal penelusuran sumber informasi, pengolahan sumber informasi, pelayanan, dan pengembangan lain secara profesional sesuai dengan keilmuan, keislaman, dan keindonesiaan |
