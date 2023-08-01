@@ -7,3 +7,4 @@ Several reputable international articles have been published, namely entitled "E
 
 
 <a href="https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao">Google Scholar</a>
+<a href="https://sinta.kemdikbud.go.id/authors/profile/258915 ">Sinta</a>
