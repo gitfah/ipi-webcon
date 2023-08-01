@@ -7,4 +7,4 @@ Several reputable international articles have been published, namely entitled "E
 
 [link](https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao)
 
-<a href="https://www.example.com/my great page">link</a>
+<a href="https://scholar.google.com/citations?user=ZiaDJ20AAAAJ&hl=id&oi=ao">link</a>
