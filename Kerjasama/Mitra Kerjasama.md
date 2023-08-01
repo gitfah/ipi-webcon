@@ -1,6 +1,7 @@
 # **Mitra Kerjasama Program Studi Ilmu Perpustakaan**
 
-![perpus bogor](https://github.com/uin-fah/ipi-webcon/assets/119867794/a3c629e6-79ab-4db1-8396-f5c44c6e7b6b)
+![perpus bogor](https://github.com/uin-fah/ipi-webcon/assets/119867794/93a4b0df-66ea-481a-a1da-a8d44f1b2d06)
+
 
 
 
