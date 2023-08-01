@@ -4,4 +4,4 @@ Program Studi Ilmu Perpustakaan mendapat akreditasi A dari Badan Akreditasi Nasi
 
 ![Sertifikat Akreditasi 1](https://github.com/uin-fah/ipi-webcon/assets/138652527/ce70235a-4b92-4535-ad01-776421f52480)
 
-Sertifikat Akreditas Progran Studi Ilmu Perpustakaan S1 tahun 2020 - 2027 unduh [disini](https://drive.google.com/file/d/1y7otrzS09IjPb8DWRKH8a_9z18cdsCA8/view)
+Sertifikat Akreditas Progran Studi Ilmu Perpustakaan S1 tahun 2020 - 2027 [unduh disini](https://drive.google.com/file/d/1y7otrzS09IjPb8DWRKH8a_9z18cdsCA8/view)
