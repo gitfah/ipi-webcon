@@ -1,0 +1,1 @@
+- Telah melakukan hubungan kerjasama dengan banyak lembaga perpustakaan dan kearsipan di wilayah jabodetabek 
