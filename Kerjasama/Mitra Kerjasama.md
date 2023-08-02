@@ -7,7 +7,7 @@
 
 
 
-Program studi ilmu perpustakaan Universitas Islam Negeri Syarif Hidayatullah Jakarta melakukan hubungan kerjasama dalam bentuk pengabdian dan program magang yang telah rampung dilaksanakan pada Bulan Juni tahun 2023. Sebagian besar hubungan kerjasama dilakukan dengan instansi perpustakaan dan kearsipan di wilayah JABODETABEK, beberapa diantaranya adalah Kementerian BUMN Republik Indonesia, Arsip Nasional Republik Indonesia, Dewan Kesenian DKI Jakarta, Perpustakaan DPR Republik Indonesia, Perpustakaan dan Galeri Kota Bogor dan masih banyak yang lainya. [selengkapnya disini](https://docs.google.com/spreadsheets/d/1xtGLJzpnx0vTVi-kM6qhRjwfxJt0Aink/edit#gid=631199221)
+Program studi ilmu perpustakaan Universitas Islam Negeri Syarif Hidayatullah Jakarta melakukan hubungan kerjasama dalam bentuk pengabdian dan program praktik kerja lapangan yang telah rampung dilaksanakan pada Bulan Juni tahun 2023. Sebagian besar hubungan kerjasama dilakukan dengan instansi perpustakaan dan kearsipan di wilayah JABODETABEK, beberapa diantaranya adalah Kementerian BUMN Republik Indonesia, Arsip Nasional Republik Indonesia, Dewan Kesenian DKI Jakarta, Perpustakaan DPR Republik Indonesia, Perpustakaan dan Galeri Kota Bogor dan masih banyak yang lainya. [selengkapnya disini](https://docs.google.com/spreadsheets/d/1xtGLJzpnx0vTVi-kM6qhRjwfxJt0Aink/edit#gid=631199221)
 
 
 
