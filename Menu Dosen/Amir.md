@@ -1,6 +1,6 @@
 # **Amir Fadhilah**
 
-![An old rock in the desert](https://raw.githubusercontent.com/uin-fah/ipi-webcon/main/azwar%20-%20Azwar%20Muin.jpeg)
+![An old rock in the desert](https://raw.githubusercontent.com/uin-fah/ipi-webcon/main/Foto%20Profil%20Amir%20Fadhilah_2023%20-%20amir%20fadhilah.jpeg)
 
 
 <p>Amir Fadhilah, S.Sos., M.Si Pendidikan S1 Jurusan Sosiologi FISIP Unsoed Purwokerto, S2
