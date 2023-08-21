@@ -1,4 +1,4 @@
-# Perpustakaan Umum Jadi 'Bangku Terakhir' Bagi Masyarakat yang Tidak Sekolah Formal
+# Perpustakaan umum menjadi tempat akhir yang tersedia bagi individu yang tidak mengikuti pendidikan formal.
 
 ![Perpusnas](https://cdn.medcom.id/dynamic/content/2023/06/21/1581466/UzdQDWHTFO.jpg?w=1024)
 
