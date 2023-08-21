@@ -1,5 +1,7 @@
 ## Serah Terima Jabatan (Sertijab) Kepala Dinas Perpustakaan dan Arsip Kabupaten Tangerang
 
+![Arsip Tangerang](https://tangerangkab.go.id/images/1692159533_871x497.JPG)
+
 Dinas Perpustakaan dan Kearsipan (Disperpusip) Provinsi Tangerang menggelar acara perpisahan dan penyambutan (sertijab) Kepala Dinas Kearsipan dan Perpustakaan Provinsi Tangerang, Dr. H.A.F Firzada Mahalli, SE., M.Si kepada Dra Hj. Nurul Hayati, M. Si. 
 
 Firzada Mahalli menyambut kedatangan Nurul Hayati. Ia berharap Nurul bisa tampil baik di tempat tugas barunya. Ia mengakui, selama menjabat masih ada beberapa program yang belum selesai. Namun, dia mengatakan sejauh ini telah melakukan yang terbaik untuk menjalankan tugasnya selama empat bulan menjabat.  
