@@ -19,3 +19,5 @@ Dengan demikian, Aber mengambil inisiatif untuk mendorong dan memfasilitasi pend
 Di sisi lain, Andi Suriati, Kepala Bidang Pengembangan dan Pemberdayaan Kegemaran Membaca di DPKD Kabupaten Serang, menyatakan bahwa dari 28 OPD, hanya Disporapar yang telah membentuk pojok baca. Ia berharap OPD lainnya akan segera mengikuti langkah tersebut dengan membentuk perpustakaan khusus.
 
 "Saya mengharapkan agar OPD lainnya segera mendirikan perpustakaan khusus atau setidaknya pojok baca. Kami akan memberikan fasilitas untuk buku-bukunya," tandas Andi.
+
+Sumber : [Antara News](https://banten.antaranews.com/berita/249600/tingkatkan-gemar-membaca-opd-harus-punya-perpustakaan-khusus)
