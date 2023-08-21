@@ -15,3 +15,6 @@ Agus berharap bahwa melalui pelatihan dan pembentukan Satgas Laraska ini, inform
 Dalam menjalankan tugasnya, diharapkan bahwa anggota Satgas Laraska juga dapat memberikan edukasi kepada tetangga dan warga sekitar mengenai pentingnya merawat arsip dengan benar.
 
 "Saya berharap bahwa masyarakat akan lebih peka terhadap perawatan dan penyimpanan arsip. Arsip ini memuat dokumen penting dalam kehidupan kita. Dan bagi anggota Satgas, semoga mereka dapat menyampaikan informasi dan membantu masyarakat sekitar dalam merawat dan menyimpan dokumen penting ini," tutup Agus Santoso.
+
+
+Sumber : [Antara News](https://banten.antaranews.com/berita/250452/gandeng-anri-laraska-siap-bantu-warga-menjaga-arsip)
