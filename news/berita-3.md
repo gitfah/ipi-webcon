@@ -16,5 +16,9 @@ Ani juga mengajak seluruh penduduk Kota Tangerang untuk menggunakan layanan enka
 
 Selama acara Safari Pembangunan yang merupakan bagian dari perayaan Hari Ulang Tahun (HUT) ke-30 Kota Tangerang, DPAD juga menyediakan layanan perpustakaan keliling yang dapat dimanfaatkan oleh masyarakat.
 
-Sumber : [Antara News](https://banten.antaranews.com/berita/237540/dpad-kota-tangerang-buka-layanan-enkapsulasi-arsip)
 "Mobil perpustakaan ini membawa ratusan buku dengan berbagai tema, sebagai sarana untuk meningkatkan minat baca penduduk Kota Tangerang di mana pun dan kapan pun. DPAD Kota Tangerang, Menyediakan Pengetahuan yang Penting," tambahnya.
+
+
+Sumber : [Antara News](https://banten.antaranews.com/berita/237540/dpad-kota-tangerang-buka-layanan-enkapsulasi-arsip)
+
+
