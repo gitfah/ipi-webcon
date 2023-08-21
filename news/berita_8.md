@@ -1,6 +1,6 @@
 # Kemendikbudristek Serahkan Arsip Statis kepada ANRI pada Perayaan HUT ke-78 RI
 
-![https://anri.go.id/storage/berita/arsip-nasional-republik-indonesia-1692256376-o5l2n.jpeg] king
+![foto](https://anri.go.id/storage/berita/arsip-nasional-republik-indonesia-1692256376-o5l2n.jpeg)
 
 <P>Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi (Kemendikbudristek) telah menyerahkan arsip statisnya kepada Arsip Nasional Republik Indonesia (ANRI) dalam rangka perayaan HUT ke-78 Republik Indonesia. Penyerahan ini dilakukan secara langsung oleh Sekretaris Jenderal Kemendikbudristek, Suharti, kepada Deputi Bidang Konservasi Arsip Nasional Republik Indonesia, Kandar, di lokasi Kemendikbudristek, Jakarta pada tanggal 17 Agustus 2023. Upacara penyerahan ini merupakan bagian dari peringatan kemerdekaan RI yang dipimpin oleh Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi, Nadiem Makarim.
 
