@@ -13,3 +13,5 @@ Dia menyatakan bahwa dengan adanya semakin banyak perpustakaan di daerah, tidak 
 Sejak tahun 2018, sudah ada 30 perpustakaan yang beroperasi di Kota Tangerang di bawah supervisi Dinas Perpustakaan dan Arsip Daerah. Perpustakaan-perpustakaan ini juga bekerjasama dengan masyarakat sekitar untuk memastikan manfaatnya tepat sasaran.
 
 "Kami dari DPAD memberikan dukungan berupa fasilitas peminjaman buku yang dibutuhkan, bimbingan dalam mengelola perpustakaan, serta tunjangan sejumlah Rp300 ribu per bulan yang diberikan setiap tiga bulan," tambah Engkos Zarkasyi.
+
+Sumber: [Antara News](https://banten.antaranews.com/berita/252522/tingkatkan-minat-baca-pemkot-tangerang-ajak-masyarakat-dirikan-perpustakaan)
